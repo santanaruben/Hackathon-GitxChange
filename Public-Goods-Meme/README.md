@@ -7,7 +7,7 @@ Source: https://commons.wikimedia.org/wiki/File:Passenger-1983.jpg
 Song: Passenger - Let Her Go
 By: Michael David Rosenberg
 
-##Challenge Description
+## Challenge Description
 The scope of this prize is to create a template for public goods memes.
 
 Why Today, awareness and recognition of public goods is quite subliminal. Many people understand that public goods are good only when they are gone. For example, they understand the value of clean air only when the sky is smokey orange-grey, or the value of public health only when medical facilities are overloaded.
