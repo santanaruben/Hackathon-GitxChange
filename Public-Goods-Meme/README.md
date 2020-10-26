@@ -1,10 +1,13 @@
 # About Template
 
 Photo Author:	Harald Krichel
+
 Creative commons license: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
 Source: https://commons.wikimedia.org/wiki/File:Passenger-1983.jpg
 
 Song: Passenger - Let Her Go
+
 By: Michael David Rosenberg
 
 ## Challenge Description
